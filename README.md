@@ -3,6 +3,7 @@
 화재 감지 알림 시스템의 Back-end server.  
 화재 감지 클라이언트 및 애플리케이션은 본 repo에 포함하지 않는다.  
 [application github](https://github.com/yang2968/FIAS_front-end)
+[fire detection github](https://github.com/dldudcks1779/FIAS_Detector)
 
 ## summary
 서비스 제공 지역에서 화재가 발생하는 경우 화재 감지 이미지를 데이터베이스에 저장하고 범위내의 유저에게 화재가 발생했음을 푸시알림을 통해 알린다.  
