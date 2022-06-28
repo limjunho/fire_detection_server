@@ -2,7 +2,7 @@
 
 화재 감지 알림 시스템의 Back-end server.  
 화재 감지 클라이언트 및 애플리케이션은 본 repo에 포함하지 않는다.  
-[application github](https://github.com/yang2968/FIAS_front-end)
+[application github](https://github.com/yang2968/FIAS_front-end)  
 [fire detection github](https://github.com/dldudcks1779/FIAS_Detector)
 
 ## summary
